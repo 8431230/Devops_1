@@ -1,2 +1,1 @@
-print("Hello Github from python file")
-print("hi")
+print("Hello Github from python file hii")
